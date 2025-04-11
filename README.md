@@ -1,4 +1,4 @@
-# auto_orientation
+# flutter_auto_orientation
 This plugin was created to programmatically rotate on iOS and Android
 
 ## Getting Started
